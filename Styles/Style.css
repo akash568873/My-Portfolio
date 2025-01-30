@@ -55,6 +55,9 @@ nav li a{
 
 /*Banner Styles*/
 
+.banner{
+    display: flex;
+}
 .banner-gretting{
     font-size: 45px;
     font-weight: 600;
