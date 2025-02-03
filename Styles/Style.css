@@ -159,8 +159,13 @@ main section{
 }
 .experience-sub-title{
     font-size:20px;
-    font-weight:600; 
+    font-weight:600;
+    margin-bottom: 20px; 
 }
 .experience-description ,.experience-sub-title{
     color: #757575;
+}
+.btn-download-cv{
+    margin-top: 20px;
+    text-align: center;
 }
